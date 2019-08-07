@@ -1,0 +1,15 @@
+# Site settings
+title: Filip Smola
+email: smola.filip@hotmail.com
+description: >-
+    Filip Smola's personal website.
+baseurl: ""
+url: "https://smola.me"
+#twitter_username:
+github_username: pilif0
+
+# Build settings
+markdown: kramdown
+remote_theme: LeNPaul/Millennial
+plugins:
+  - jekyll-feed
