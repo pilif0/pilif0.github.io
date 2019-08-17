@@ -46,3 +46,9 @@ author:
   name: Filip Smola
   picture:
   email: smola.filip@hotmail.com
+
+# Footer Links
+footer_links:
+  - title: GitHub
+    url: https://github.com/pilif0
+    icon: fab fa-github-square
