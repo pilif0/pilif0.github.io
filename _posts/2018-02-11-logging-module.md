@@ -5,11 +5,11 @@ categories: [Open Sea]
 tags: [C++, logging, Boost.Log]
 date: 2018-02-11 15:43
 ---
-__Update:__ The relevant pull request is available [here](https://github.com/pilif0/open-sea/pull/1).
-
 First part of Open Sea is the logging module, which is a layer of abstraction over the [Boost.Log](http://www.boost.org/doc/libs/1_66_0/libs/log/doc/html/index.html) library.
 It sets up easy logging into a file with a fallback being the console.
 The whole module is contained in the `open_sea::log` namespace.
+
+__Update:__ The relevant pull request is available [here](https://github.com/pilif0/open-sea/pull/1).
 
 To initialize logging, all you need to do is call the `init_logging` function which sets up the file sink with proper formatting, filtering and attributes.
 If the file sink initialization fails for some reason (e.g. target file exists but do not have write permissions), the console is used instead.

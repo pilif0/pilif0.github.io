@@ -5,11 +5,11 @@ categories: [General Open-Source]
 tags: [C++, data structure, stack, tree]
 date: 2018-07-07 18:23
 ---
-*Update: My implementation of this idea used in Open Sea is available [here](https://github.com/pilif0/open-sea/blob/master/include/open-sea/Track.h).
-It is for example used in the [profiler](https://github.com/pilif0/open-sea/blob/master/src/Profiler.cpp).*
-
 While implementing a profiler for Open Sea, I have realised that I will need a data structure that reflects both the stack-ness of the call stack and the memory of a tree.
 In other words, a data structure that can be interacted with similarly to a stack — in order to be intuitive to use around functions and blocks of code — but doesn't lose the data with every pop, so that I can then display that data and use it for optimisation.
+
+*Update: My implementation of this idea used in Open Sea is available [here](https://github.com/pilif0/open-sea/blob/master/include/open-sea/Track.h).
+It is for example used in the [profiler](https://github.com/pilif0/open-sea/blob/master/src/Profiler.cpp).*
 
 Early in the design process I intended to use a stack to track the blocks of code and their hierarchy, and a separate tree to then write the data into (in this case a label for the block and its duration).
 While designing the functions that would interact with this pair of structures, I noticed that the actions were mostly mirrored on both.
