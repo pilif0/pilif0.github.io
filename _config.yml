@@ -5,7 +5,7 @@ locale: en-UK
 baseurl: ""
 url: "https://smola.me"
 logo: #TODO
-date_format: "%Y-%M-%D"
+date_format: "%Y-%m-%d %H:%M"
 
 github_username: pilif0
 
@@ -39,7 +39,7 @@ defaults:
       type: posts
     values:
       layout: post
-      share: true
+      share: false
 
 # Site Author
 author:
