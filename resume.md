@@ -8,7 +8,8 @@ permalink: /resume/
 __MInf Informatics__ (G500) at the School of Informatics, University of Edinburgh  
 _Sep 2016 - Present_
 
-_Notable courses_: Automated Reasoning, Computer Systems, Operating Systems, Reasoning and Agents, System Design Project
+_Notable courses_: Automated Reasoning, Computer Systems, Operating Systems, Reasoning and Agents, System Design Project  
+_Master's dissertation topic_: Formalizing dual numbers and notions of automatic differentiation in Isabelle/HOL
 
 ---
 
