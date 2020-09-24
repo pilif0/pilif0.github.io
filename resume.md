@@ -5,9 +5,11 @@ permalink: /resume/
 ---
 # Education
 
-__BSc Computer Science with Honours__ (First Class) at the School of Informatics, University of Edinburgh  
-_Sep 2016 - Aug 2020_
+__PhD Informatics__ at the [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
+_Sep 2020 - Aug 2024_
 
+__BSc Computer Science with Honours__ (First Class) at the School of Informatics, University of Edinburgh  
+_Sep 2016 - Aug 2020_  
 _Notable courses_: Categories and Quantum Informatics, Automated Reasoning, Performance Modelling  
 _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 
