@@ -1,11 +1,12 @@
-title: Filip Smola
+title: Rambling into the Void
 email: smola.filip@hotmail.com
-description: Filip Smola's personal website.
+description: Thoughts and random ideas of dubious use
 locale: en-UK
 baseurl: ""
 url: "https://smola.me"
 logo: #TODO
 date_format: "%Y-%m-%d %H:%M"
+copyright: "&copy; Filip Smola. Powered by <a href=\"https://jekyllrb.com\" rel=\"nofollow\">Jekyll</a> &amp; <a href=\"https://github.com/mmistakes/so-simple-theme\" rel=\"nofollow\">So Simple</a>"
 
 github_username: pilif0
 

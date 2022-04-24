@@ -5,8 +5,8 @@ permalink: /resume/
 ---
 # Education
 
-__PhD Informatics__ at the [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
-_Sep 2020 - Aug 2024_
+__PhD Informatics__ at [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
+_Sep 2020 - Present_
 
 __BSc Computer Science with Honours__ (First Class) at the School of Informatics, University of Edinburgh  
 _Sep 2016 - Aug 2020_  
@@ -18,7 +18,7 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 # Employment
 
 __Research Intern__ at the School of Informatics, University of Edinburgh  
-_Jun 2019 - Present_
+_Jun 2019 - Aug 2020_
 
 I work on projects with Dr. Jacques Fleuriot, mainly on the [DigiFlow](http://homepages.inf.ed.ac.uk/ppapapan/digiflow/) project and on mechanisations in Isabelle/HOL.
 This work includes implementation, exploring potential research directions, formalisation and proof mechanisation, and technical writing.
@@ -28,9 +28,6 @@ _Theoretical topics_: &pi;-Calculus, Classical Linear Logic, Event Stream Proces
 
 __Housekeeper__ at Glenalmond House, Edinburgh  
 _Jun - Sep 2018_
-
-I was tasked with keeping the guest and common rooms at a high level of cleanliness.
-I worked independently on a daily set of tasks within a tight deadline.
 
 __Junior Developer__ at Orchitech solutions s.r.o, Prague  
 _Jun - Aug 2017_
