@@ -8,6 +8,9 @@ permalink: /resume/
 __PhD Informatics__ at [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
 _Sep 2020 - Present_
 
+The topic revolves around process composition, linear logic and mechanisation in Isabelle/HOL.
+I am supervised by Prof. Jacques Fleuriot and a member of the [AI Modelling Lab](https://aiml.inf.ed.ac.uk/).
+
 __BSc Computer Science with Honours__ (First Class) at the School of Informatics, University of Edinburgh  
 _Sep 2016 - Aug 2020_  
 _Notable courses_: Categories and Quantum Informatics, Automated Reasoning, Performance Modelling  
@@ -20,7 +23,7 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 __Research Intern__ at the School of Informatics, University of Edinburgh  
 _Jun 2019 - Aug 2020_
 
-I work on projects with Dr. Jacques Fleuriot, mainly on the [DigiFlow](http://homepages.inf.ed.ac.uk/ppapapan/digiflow/) project and on mechanisations in Isabelle/HOL.
+I worked on projects with Prof. Jacques Fleuriot, mainly on the [DigiFlow](http://homepages.inf.ed.ac.uk/ppapapan/digiflow/) project and on mechanisations in Isabelle/HOL.
 This work includes implementation, exploring potential research directions, formalisation and proof mechanisation, and technical writing.
 
 _Technologies used_: Java, Scala, Isabelle/HOL  
@@ -58,6 +61,5 @@ _Technologies used_: Php, MySQL, HTML, Joomla, JavaScript
 
 __Programming languages:__ C, C++, Java, Scala, Haskell, Common Lisp, Python  
 __Theorem proving:__ Isabelle/HOL  
-__Low-level:__ LLVM IR, x86 Assembly  
-__Web development:__ Php, JavaScript, TypeScript, CSS, HTML, SQL  
+__Web development:__ JavaScript, TypeScript, CSS, HTML, SQL  
 __Other tools:__ LLVM, CMake, Git, vim, linux
