@@ -11,7 +11,7 @@ _Sep 2020 - Present_
 The topic revolves around process composition, linear logic and mechanisation in Isabelle/HOL.
 I am supervised by Prof. Jacques Fleuriot and a member of the [AI Modelling Lab](https://aiml.inf.ed.ac.uk/).
 
-__BSc Computer Science with Honours__ (First Class) at the School of Informatics, University of Edinburgh  
+__BSc Computer Science with Honours__ at the School of Informatics, University of Edinburgh  
 _Sep 2016 - Aug 2020_  
 _Notable courses_: Categories and Quantum Informatics, Automated Reasoning, Performance Modelling  
 _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
