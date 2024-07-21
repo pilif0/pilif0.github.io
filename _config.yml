@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://smola.me"
 logo: #TODO
 date_format: "%Y-%m-%d %H:%M"
-copyright: "&copy; Filip Smola. Powered by <a href=\"https://jekyllrb.com\" rel=\"nofollow\">Jekyll</a> &amp; <a href=\"https://github.com/mmistakes/so-simple-theme\" rel=\"nofollow\">So Simple</a>"
+copyright: "&copy; Filip Smola. Powered by <a href=\"https://jekyllrb.com\" rel=\"nofollow\">Jekyll</a> &amp; <a href=\"https://github.com/mmistakes/so-simple-theme\" rel=\"nofollow\">So Simple</a>. <a href=\"https://github.com/pilif0/pilif0.github.io\">Source</a>"
 
 github_username: pilif0
 
