@@ -22,15 +22,19 @@ google_fonts:
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+#  - jekyll-paginate
+
+# Category and tag linking to taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Liquid
 liquid:
   error_mode: strict
 
-# Paginate
-paginate: 10
-paginate_path: /page:num/
+## Paginate
+#paginate: 10
+#paginate_path: blog/page:num/
 
 # Front Matter Defaults
 defaults:
