@@ -20,6 +20,13 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 
 # Employment
 
+__Teaching Support__ at the School of Informatics, University of Edinburgh  
+_Sep 2020 - Aug 2023_
+
+For one semester in each of the three academic years, I worked as teaching support on the course Automated Reasoning organised by Prof. Jacques Fleuriot.
+First year I was a tutor, while following two years I was both the lab demonstrator and teaching assistant.
+The core of this work was leading tutorials and labs, answering questions online, providing students with support throughout the assignment and marking that assignment.
+
 __Research Intern__ at the School of Informatics, University of Edinburgh  
 _Jun 2019 - Aug 2020_
 
