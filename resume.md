@@ -66,7 +66,19 @@ _Technologies used_: Php, MySQL, HTML, Joomla, JavaScript
 
 # Skills
 
-__Programming languages:__ C, C++, Java, Scala, Haskell, Common Lisp, Python  
-__Theorem proving:__ Isabelle/HOL  
-__Web development:__ JavaScript, TypeScript, CSS, HTML, SQL  
-__Other tools:__ LLVM, CMake, Git, vim, linux
+__Programming languages:__
+- Haskell, Scala, Java, Python, OCaml and shell scripts as part of work and research
+- C++, Common Lisp and Rust as part of personal projects
+- C as part of classes
+
+__Formal methods:__
+- Interactive theorem proving with Isabelle/HOL as part of research
+- Model checking with NuSMV as part of research
+- Verification with CBMC and SPARK as part of classes
+
+__Web development:__ JavaScript, TypeScript, CSS, HTML, SQL
+
+__Other technologies:__
+- Git, vim and linux as part of personal projects, work and research
+- LaTeX and Beamer as part of research writing
+- LLVM as part of personal projects
