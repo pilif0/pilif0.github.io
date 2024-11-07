@@ -19,6 +19,10 @@ __A Real-world Case Study of Process and Data Driven Predictive Analytics for Ma
 Proceedings of the 54th Hawaii International Conference on System Sciences (2021)  
 DOI: [10.24251/HICSS.2021.122](https://doi.org/10.24251/HICSS.2021.122)
 
+Contreras, R. and _Smola, F_. and Zheng, J. and Hillston, J. and Fleuriot, J.  
+__Verifying properties of Activities of Daily Living__  
+DataMod (2024) - Proceedings forthcoming
+
 ---
 
 # Archive of Formal Proofs
@@ -26,3 +30,11 @@ DOI: [10.24251/HICSS.2021.122](https://doi.org/10.24251/HICSS.2021.122)
 _Smola, F._ and Fleuriot, J.D.:  
 __Hyperdual Numbers and Forward Differentiation__  
 [AFP](https://www.isa-afp.org/entries/Hyperdual.html) (2021)
+
+_Smola, F._ and Fleuriot, J.D.:  
+__Intuitionistic Linear Logic__  
+(Forthcoming)
+
+_Smola, F._ and Fleuriot, J.D.:  
+__Process Compositions__  
+(Forthcoming)
