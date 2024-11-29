@@ -28,13 +28,13 @@ DOI: [10.24251/HICSS.2021.122](https://doi.org/10.24251/HICSS.2021.122)
 # Archive of Formal Proofs
 
 _Smola, F._ and Fleuriot, J.D.:  
-__Process Compositions__  
-(Forthcoming)
+__Linear Resources and Process Compositions__  
+[AFP](https://www.isa-afp.org/entries/ProcessComposition.html) (2024) and [GitHub](https://github.com/pilif0/isa-ProcessComposition)
 
 _Smola, F._ and Fleuriot, J.D.:  
-__Intuitionistic Linear Logic__  
-(Forthcoming)
+__Deep Embedding of Intuitionistic Linear Logic__  
+[AFP](https://www.isa-afp.org/entries/ILL.html) (2024) and [GitHub](https://github.com/pilif0/isa-ILL)
 
 _Smola, F._ and Fleuriot, J.D.:  
 __Hyperdual Numbers and Forward Differentiation__  
-[AFP](https://www.isa-afp.org/entries/Hyperdual.html) (2021)
+[AFP](https://www.isa-afp.org/entries/Hyperdual.html) (2021) and [GitHub](https://github.com/pilif0/isa-Hyperdual/)
