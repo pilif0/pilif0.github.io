@@ -64,6 +64,16 @@ _Technologies used_: Php, MySQL, HTML, Joomla, JavaScript
 
 ---
 
+# Service
+
+__Peer Review__
+- Mathematics in Artificial Intelligence (Special Issue of the journal Mathematics in Computer Science)
+- Diagrams 2022 (13th International Conference on the Theory and Application of Diagrams)
+- Diagrams 2021 (12th International Conference on the Theory and Application of Diagrams)
+- CICM 2021 (14th Conference on Intelligent Computer Mathematics)
+
+---
+
 # Skills
 
 __Programming languages:__
