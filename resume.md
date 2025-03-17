@@ -23,9 +23,8 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 __Teaching Support__ at the School of Informatics, University of Edinburgh  
 _AYs 2020/21, 2021/22, 2022/23, 2024/25_
 
-For one semester in each of the academic years, I worked as teaching support on the course Automated Reasoning organised by Prof. Jacques Fleuriot.
-Over this time I have been a tutor, lab demonstrator and teaching assistant.
-As part of this post I supported the students and the course organiser by leading the labs and tutorials, answering questions online and in person, maintaining the course web page, marking the assignment and delivering several lectures.
+Over each of these academic years I provided teaching support on the courses _Automated Reasoning_ and _Logic, Computability and Incompleteness_, filling at different times the roles of tutor, lab demonstrator, marker and teaching assistant.
+As part of these posts I supported the students and the course organisers by leading the labs and tutorials, answering questions online and in person, maintaining the course web page, marking the assignments and delivering several lectures.
 
 __Research Intern__ at the School of Informatics, University of Edinburgh  
 _Jun 2019 - Aug 2020_
@@ -67,6 +66,7 @@ _Technologies used_: Php, MySQL, HTML, Joomla, JavaScript
 # Service
 
 __Peer Review__
+- Journal of Logic and Computation
 - Mathematics in Artificial Intelligence (Special Issue of the journal Mathematics in Computer Science)
 - Diagrams 2022 (13th International Conference on the Theory and Application of Diagrams)
 - Diagrams 2021 (12th International Conference on the Theory and Application of Diagrams)
