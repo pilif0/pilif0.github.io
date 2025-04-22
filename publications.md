@@ -15,8 +15,9 @@ DOI: [10.1007/s10817-024-09698-2](https://doi.org/10.1007/s10817-024-09698-2)
 # Conference Papers
 
 Contreras, R. and _Smola, F_. and Zheng, J. and Hillston, J. and Fleuriot, J.  
-__Verifying properties of Activities of Daily Living__  
-DataMod (2024) - Proceedings forthcoming
+__Verifying Properties of Activities of Daily Living__  
+DataMod (2024)
+DOI: [10.1007/978-3-031-87908-1_4](https://doi.org/10.1007/978-3-031-87908-1_4)
 
 Papapanagiotou, P. and Vaughan, J. and _Smola, F._ and Fleuriot, J.D.  
 __A Real-world Case Study of Process and Data Driven Predictive Analytics for Manufacturing Workflows__  
