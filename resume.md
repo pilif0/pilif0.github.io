@@ -20,7 +20,7 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 
 # Employment
 
-__Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)
+__Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)  
 _May 2025 - Present_
 
 I am one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
