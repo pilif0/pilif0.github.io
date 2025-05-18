@@ -6,7 +6,7 @@ permalink: /resume/
 # Education
 
 __PhD Informatics__ at [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
-_Sep 2020 - Present_  
+_Sep 2020 - Apr 2025_  
 _Thesis title_: A Formalised Approach to the Composition of Processes over Linear Resources  
 My work revolves around process composition, linear logic and mechanisation in Isabelle/HOL and is supervised by Prof. Jacques Fleuriot and Prof. Jane Hillston.
 Throughout this programme I have been a member of the [AI Modelling Lab](https://aiml.inf.ed.ac.uk/) and I have been involved in a variety of other projects that make use of formal logic.
@@ -19,6 +19,12 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 ---
 
 # Employment
+
+__Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)
+_May 2025 - Present_
+
+I am one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
+My work involves using formal models to understand sensor data with the aim of improving quality of life for older adults.
 
 __Teaching Support__ at the School of Informatics, University of Edinburgh  
 _AYs 2020/21, 2021/22, 2022/23, 2024/25_
