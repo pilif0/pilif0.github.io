@@ -78,6 +78,9 @@ __Peer Review__
 - Diagrams 2021 (12th International Conference on the Theory and Application of Diagrams)
 - CICM 2021 (14th Conference on Intelligent Computer Mathematics)
 
+__Artifact Evaluation Committee__
+- QEST+FORMATS 2025
+
 ---
 
 # Skills
