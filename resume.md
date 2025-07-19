@@ -7,7 +7,7 @@ permalink: /resume/
 
 __PhD Informatics__ at [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
 _Sep 2020 - Apr 2025_  
-_Thesis title_: A Formalised Approach to the Composition of Processes over Linear Resources  
+_Thesis_: [A Formalised Approach to the Composition of Processes over Linear Resources](http://dx.doi.org/10.7488/era/6213)  
 My work revolves around process composition, linear logic and mechanisation in Isabelle/HOL and is supervised by Prof. Jacques Fleuriot and Prof. Jane Hillston.
 Throughout this programme I have been a member of the [AI Modelling Lab](https://aiml.inf.ed.ac.uk/) and I have been involved in a variety of other projects that make use of formal logic.
 
