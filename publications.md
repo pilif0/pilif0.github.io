@@ -15,8 +15,8 @@ DOI: [10.1007/s10817-024-09698-2](https://doi.org/10.1007/s10817-024-09698-2)
 # Conference Papers
 
 Chevallier, M. and _Smola, F._ and Schmoetten, R. and Fleuriot, J.D.  
-__GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning__
-TIME (2025)
+__GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning__  
+TIME (2025)  
 _(Proceedings forthcoming)_
 
 Contreras, R. and _Smola, F._ and Zheng, J. and Hillston, J. and Fleuriot, J.  
