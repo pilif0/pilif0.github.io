@@ -8,8 +8,8 @@ permalink: /resume/
 __PhD Informatics__ at [AIAI](http://web.inf.ed.ac.uk/aiai), School of Informatics, University of Edinburgh  
 _Sep 2020 - Apr 2025_  
 _Thesis_: [A Formalised Approach to the Composition of Processes over Linear Resources](http://dx.doi.org/10.7488/era/6213)  
-My work revolves around process composition, linear logic and mechanisation in Isabelle/HOL and is supervised by Prof. Jacques Fleuriot and Prof. Jane Hillston.
-Throughout this programme I have been a member of the [AI Modelling Lab](https://aiml.inf.ed.ac.uk/) and I have been involved in a variety of other projects that make use of formal logic.
+My work revolved around process composition, linear logic and mechanisation in Isabelle/HOL and was supervised by Prof. Jacques Fleuriot and Prof. Jane Hillston.
+Throughout this programme I have been a member of the [AI Modelling Lab](https://aiml.inf.ed.ac.uk/) and I have been involved in a variety of other projects that make use of formal methods.
 
 __BSc Computer Science with Honours__ at the School of Informatics, University of Edinburgh  
 _Sep 2016 - Aug 2020_  
@@ -24,7 +24,9 @@ __Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](http
 _May 2025 - Present_
 
 I am one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
-My work involves using formal models to understand sensor data with the aim of improving quality of life for older adults.
+The team I am a part of uses formal models that integrate sensor data and information about a person's context to understand the activities they perform, with the aim of improving quality of life for older adults.
+My individual focus is on visualising the various data in a dashboard to make it accessible to a less technical audience.
+The core tool I use in this work is [Plotly Dash](https://github.com/plotly/dash).
 
 __Teaching Support__ at the School of Informatics, University of Edinburgh  
 _AYs 2020/21, 2021/22, 2022/23, 2024/25_
@@ -91,9 +93,9 @@ __Programming languages:__
 - C as part of classes
 
 __Formal methods:__
-- Interactive theorem proving with Isabelle/HOL as part of research
+- Interactive theorem proving and code generation with Isabelle/HOL as part of research
 - Model checking with NuSMV as part of research
-- Verification with CBMC and SPARK as part of classes
+- Formal verification with CBMC and SPARK as part of classes
 
 __Web development:__ JavaScript, TypeScript, CSS, HTML, SQL
 
