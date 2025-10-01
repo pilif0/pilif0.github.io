@@ -26,7 +26,7 @@ _May 2025 - Present_
 I am one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
 The team I am a part of uses formal models that integrate sensor data and information about a person's context to understand the activities they perform, with the aim of improving quality of life for older adults.
 My individual focus is on visualising the various data in a dashboard to make it accessible to a less technical audience.
-The core tool I use in this work is [Plotly Dash](https://github.com/plotly/dash).
+The dashboard is implemented with [Plotly Dash](https://github.com/plotly/dash) and uses [Blockly](https://developers.google.com/blockly) to make building formal constraints more accessible.
 
 __Teaching Support__ at the School of Informatics, University of Edinburgh  
 _AYs 2020/21, 2021/22, 2022/23, 2024/25_
@@ -88,18 +88,21 @@ __Artifact Evaluation Committee__
 # Skills
 
 __Programming languages:__
-- Haskell, Scala, Java, Python, OCaml and shell scripts as part of work and research
+- Haskell, Scala, Java, Python, OCaml and shell scripts as part of work
 - C++, Common Lisp and Rust as part of personal projects
 - C as part of classes
 
 __Formal methods:__
-- Interactive theorem proving and code generation with Isabelle/HOL as part of research
-- Model checking with NuSMV as part of research
+- Interactive theorem proving and code generation with Isabelle/HOL as part of work
+- Model checking with NuSMV as part of work
 - Formal verification with CBMC and SPARK as part of classes
 
-__Web development:__ JavaScript, TypeScript, CSS, HTML, SQL
+__Web and UI development:__
+- JavaScript, TypeScript, CSS, HTML, SQL as part of personal projects and work
+- Plotly Dash, React as part of work
+- Blockly as part of work
 
 __Other technologies:__
-- Git, vim and linux as part of personal projects, work and research
+- Git, vim and linux as part of daily life and work
 - LaTeX and Beamer as part of research writing
 - LLVM as part of personal projects
