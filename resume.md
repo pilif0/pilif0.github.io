@@ -20,12 +20,18 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 
 # Employment
 
-__Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)  
-_May 2025 - Present_
+__Post-Doctoral Research Associate__ at the [AIM-CISC, Usher Institute](https://usher.ed.ac.uk/aim-cisc)  
+_November 2025 - Present_
 
-I am one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
-The team I am a part of uses formal models that integrate sensor data and information about a person's context to understand the activities they perform, with the aim of improving quality of life for older adults.
-My individual focus is on visualising the various data in a dashboard to make it accessible to a less technical audience.
+I am a research associate on [Objective 4](https://usher.ed.ac.uk/aim-cisc/meet-the-team/objective-4) of the AIM-CISC project.
+My focus is on using process mining to analyse inpatient data originating from [DataLoch](https://dataloch.org/).
+
+__Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)  
+_May 2025 - October 2025_
+
+I was one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
+The team I was a part of uses formal models that integrate sensor data and information about a person's context to understand the activities they perform, with the aim of improving quality of life for older adults.
+My individual focus was on visualising the various data in a dashboard to make it accessible to a less technical audience.
 The dashboard is implemented with [Plotly Dash](https://github.com/plotly/dash) and uses [Blockly](https://developers.google.com/blockly) to make building formal constraints more accessible.
 
 __Teaching Support__ at the School of Informatics, University of Edinburgh  
