@@ -20,10 +20,10 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 
 # Employment
 
-__Post-Doctoral Research Associate__ at the [AIM-CISC, Usher Institute](https://usher.ed.ac.uk/aim-cisc)  
+__AIM-CISC Research Fellow__ at the [Usher Institute](https://usher.ed.ac.uk/)  
 _November 2025 - Present_
 
-I am a research associate on [Objective 4](https://usher.ed.ac.uk/aim-cisc/meet-the-team/objective-4) of the AIM-CISC project.
+I am a research fellow on [Objective 4](https://usher.ed.ac.uk/aim-cisc/meet-the-team/objective-4) of the [AIM-CISC](https://usher.ed.ac.uk/aim-cisc) project.
 My focus is on using process mining to analyse inpatient data originating from [DataLoch](https://dataloch.org/).
 
 __Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)  
