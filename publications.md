@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 # Journal Papers
 
+Contreras, R. and _Smola, F._ and Farič, N. and Zheng, J. and Hillston, J. and Fleuriot, J.D.  
+__A Personalised Formal Verification Framework for Monitoring Activities of Daily Living of Older Adults Living Independently in Their Homes__  
+IEEE Sensors Journal (2025)  
+DOI: [10.1109/JSEN.2025.3635781](https://doi.org/10.1109/JSEN.2025.3635781)
+
 _Smola, F._ and Fleuriot, J.D.  
 __Linear Resources in Isabelle/HOL__  
 Journal of Automated Reasoning 68, 9 (2024)  
@@ -17,7 +22,7 @@ DOI: [10.1007/s10817-024-09698-2](https://doi.org/10.1007/s10817-024-09698-2)
 Chevallier, M. and _Smola, F._ and Schmoetten, R. and Fleuriot, J.D.  
 __GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning__  
 TIME (2025)  
-_(Proceedings forthcoming)_
+DOI: [10.4230/LIPIcs.TIME.2025.6](10.4230/LIPIcs.TIME.2025.6)
 
 Contreras, R. and _Smola, F._ and Zheng, J. and Hillston, J. and Fleuriot, J.  
 __Verifying Properties of Activities of Daily Living__  
