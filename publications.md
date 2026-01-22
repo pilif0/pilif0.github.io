@@ -5,9 +5,14 @@ permalink: /publications/
 ---
 # Journal Papers
 
+Farič, N. and Contreras, R. and Chen, L. and Saied, I. and _Smola, F._ and Hillston, J. and Wilkinson, H. and Lewis, S. and Fleuriot, J.D.  
+__Early experiences and views of older adults living with sensing technology at home: A qualitative study__  
+JMIR Aging (Preprint)  
+DOI: [10.2196/preprints.84451](https://doi.org/10.2196/preprints.84451)
+
 Contreras, R. and _Smola, F._ and Farič, N. and Zheng, J. and Hillston, J. and Fleuriot, J.D.  
 __A Personalised Formal Verification Framework for Monitoring Activities of Daily Living of Older Adults Living Independently in Their Homes__  
-IEEE Sensors Journal (2025)  
+IEEE Sensors Journal (2026)  
 DOI: [10.1109/JSEN.2025.3635781](https://doi.org/10.1109/JSEN.2025.3635781)
 
 _Smola, F._ and Fleuriot, J.D.  
