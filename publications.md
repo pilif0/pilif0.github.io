@@ -27,7 +27,7 @@ DOI: [10.1007/s10817-024-09698-2](https://doi.org/10.1007/s10817-024-09698-2)
 Chevallier, M. and _Smola, F._ and Schmoetten, R. and Fleuriot, J.D.  
 __GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning__  
 TIME (2025)  
-DOI: [10.4230/LIPIcs.TIME.2025.6](10.4230/LIPIcs.TIME.2025.6)
+DOI: [10.4230/LIPIcs.TIME.2025.6](https://doi.org/10.4230/LIPIcs.TIME.2025.6)
 
 Contreras, R. and _Smola, F._ and Zheng, J. and Hillston, J. and Fleuriot, J.  
 __Verifying Properties of Activities of Daily Living__  
