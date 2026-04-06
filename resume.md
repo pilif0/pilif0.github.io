@@ -81,6 +81,7 @@ _Technologies used_: Php, MySQL, HTML, Joomla, JavaScript
 # Service
 
 __Peer Review__
+- ITP 2026 (17th International Conference on Interactive Theorem Proving)
 - Journal of Logic and Computation
 - Mathematics in Artificial Intelligence (Special Issue of the journal Mathematics in Computer Science)
 - Diagrams 2022 (13th International Conference on the Theory and Application of Diagrams)
