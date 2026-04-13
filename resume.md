@@ -20,12 +20,18 @@ _Honours project_: Mechanising Hyperdual Numbers in Isabelle/HOL
 
 # Employment
 
-__AIM-CISC Research Fellow__ at the [Usher Institute](https://usher.ed.ac.uk/)  
-_November 2025 - Present_
+__Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)  
+_April 2026 - present_
 
-I am a research fellow on [Objective 4](https://usher.ed.ac.uk/aim-cisc/meet-the-team/objective-4) of the [AIM-CISC](https://usher.ed.ac.uk/aim-cisc) project.
-My focus is on using process mining to analyse acute admissions, working with inpatient data from NHS Lothian provided through [DataLoch](https://dataloch.org/) and accessed securely through a Trusted Research Environment.
-The work is done in Python, using Pandas for data processing and PM4Py for process mining.
+I am one of several research associates working on [Integrated Technologies of Care](https://usher.ed.ac.uk/advanced-care-research-centre/programme/new-technologies-of-care).
+The team I am a part of uses formal models that integrate sensor data and information about a person's context to understand the activities they perform, with the aim of improving quality of life for older adults.
+
+__AIM-CISC Research Fellow__ at the [Usher Institute](https://usher.ed.ac.uk/)  
+_November 2025 - March 2026_
+
+I was a research fellow on [Objective 4](https://usher.ed.ac.uk/aim-cisc/meet-the-team/objective-4) of the [AIM-CISC](https://usher.ed.ac.uk/aim-cisc) project.
+My focus was on using process mining to analyse acute admissions, working with inpatient data from NHS Lothian provided through [DataLoch](https://dataloch.org/) and accessed securely through a Trusted Research Environment.
+The work was done in Python, using Pandas for data processing and PM4Py for process mining.
 
 __Post-Doctoral Research Associate__ at the [Advanced Care Research Centre](https://usher.ed.ac.uk/advanced-care-research-centre)  
 _May 2025 - October 2025_
