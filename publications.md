@@ -24,6 +24,11 @@ DOI: [10.1007/s10817-024-09698-2](https://doi.org/10.1007/s10817-024-09698-2)
 
 # Conference Papers
 
+Hyman, A.R. and _Smola, F._ and Chevallier, M. and Fleuriot, J.  
+__IsaGrad: Verified Automatic Differentiation over Computational Graphs in Imperative HOL__  
+LOGICNN (2026)  
+_(Proceedings forthcoming)_
+
 Chevallier, M. and _Smola, F._ and Schmoetten, R. and Fleuriot, J.D.  
 __GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning__  
 TIME (2025)  
